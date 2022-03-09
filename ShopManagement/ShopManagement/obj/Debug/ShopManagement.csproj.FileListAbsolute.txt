@@ -1,0 +1,63 @@
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Design.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\MetroFramework.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CopyComplete
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UcProductList.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UcSalesInfo.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCOrder.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCCrudProductListAndPrice.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormLogin.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csprojAssemblyReference.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCAddUsers.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormCashier.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormManager.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Design.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csprojAssemblyReference.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormCashier.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormLogin.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormManager.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCCrudProductListAndPrice.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCOrder.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCProductList.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCSalesInfo.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCAddUsers.resources
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CopyComplete
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+E:\AIUB\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Design.dll
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.dll
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csprojAssemblyReference.cache
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormCashier.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormLogin.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FormManager.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCCrudProductListAndPrice.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCOrder.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCProductList.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCSalesInfo.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.UCAddUsers.resources
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CopyComplete
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+E:\AIUB\Previous Semesters\8th semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FINAL\Codes\Project\Group-17\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
